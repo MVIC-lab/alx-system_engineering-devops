@@ -1,0 +1,3 @@
+#!\bin\sh
+echo "current directory is `pwd`"
+\n
