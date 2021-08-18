@@ -1,2 +1,2 @@
-#!\bin\sh
-echo "contents list of the current directory is: `ls`"
+#!/bin/bash
+echo "contents list of the current directory is: `ls`" \n
