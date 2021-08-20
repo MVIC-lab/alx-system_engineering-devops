@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "contents list of the current directory is: `ls`" \n
+ls
